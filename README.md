@@ -13,6 +13,6 @@ Resources used:
 - Mr. Slug's EISA Configuration Documentation
   - http://66.113.161.23/~mR_Slug/EISA/docs/EISA_Configuration_File_Format.html
 - EXTENDED INDUSTRY STANDARD ARCHITECTURE Chapter 4, BCPR Services, Inc.
-  - https://www.bitsavers.org/pdf/bcprServices/EISA_Chapter_4.pdf
+  - http://www.bitsavers.org/pdf/bcprServices/EISA_Chapter_4.pdf
 - The Retro Web's DFI DFI E586-ICP/E586-IPE SYSTEM BOARD Manual
   - https://theretroweb.com/motherboards/s/dfi-e586-ipe
